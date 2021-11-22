@@ -1,13 +1,10 @@
 # BlueCat-Animated-Walk
 A small blue cat paces across your screen. What could possibly be on her mind?
 
-Download the folder 'BlueCat-Animated-Walk' which contains the ten .png images used in the animation. 
-The folder "Extra" contains the Adobe Flash file for customization.
+Download the images 'bc2' -- 'bc11' to the same folder as 'catwalk.html.' The ten .png images are referenced in the HTML code. The file 'ZAnimation' is the Adobe Flash file; feel free to customize! 
 
 If used, credit h0llyanders0n.github.io
 
-For support, contact hollyscode@gmail.com
+For support, Venmo @hollycatherin and/or email hollyscode@gmail.com
 
-Future fixes may include more frames, frames per second, and details on cat. 
-
-Wanna show appreciation? Venmo @hollycatherin :-) thanks! 
+Future updates may include more frames, frames per second, and details on the cat. 
