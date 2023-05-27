@@ -1,4 +1,4 @@
-# Blue-Cat-Walk
+# Blue Cat Walk
 ## Description
 A small blue cat paces across your screen, pondering, dreaming dreams no pixel ever dared to dream before!
 ## How to Run
